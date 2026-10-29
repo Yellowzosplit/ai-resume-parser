@@ -33,7 +33,8 @@
 
 </div>
 
-<img width="1280" height="720" alt="maxresdefault - 2026-10-29T183333 391" src="https://github.com/user-attachments/assets/36f0b3eb-8ce1-4277-bc74-59e641559ebe" />
+<img width="1672" height="941" alt="dc3e2cc9-da07-4884-b2aa-5f6ed87893d2" src="https://github.com/user-attachments/assets/630d246d-98d4-40a4-90d7-fdfcda01c227" />
+
 
 
 <br/>
